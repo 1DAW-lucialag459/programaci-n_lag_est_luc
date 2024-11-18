@@ -1,4 +1,4 @@
-package UNIDAD2;
+package UNIDAD2.Bolet1;
 import java.util.Scanner;
 public class ejercicio8 {
     public static void main (String[]args) {
